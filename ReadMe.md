@@ -1,7 +1,7 @@
 # Tool of converting Survey data into Spatial data
 
 ### Table of Contents
-1. [Installation](1.-installation-of-packages-of-python)
+1. [Installation](#1.-installation-of-packages-of-python)
 3. Packages
 4. Input
 5. Log
